@@ -4,7 +4,7 @@ Tensorflow Chatbot by Rishab Shama
 Overview
 ============
 This is the full code for  Amazing Tensorflow Chatbot  model to train a
-chatbot on the [Cornell Movie Dialogue dataset](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html). After training for a few hours, the bot is able to hold a fun conversation.
+chatbot on the [Cornell Movie Dialogue dataset](https://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html). After training for a few hours, the bot is able to hold a fun conversation with the user.
 
 
 Dependencies
