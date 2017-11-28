@@ -3,7 +3,7 @@ Tensorflow Chatbot by Rishab Shama
 
 ## Link
 
-[Rishab Bot](rishabbot.herokuapp.com)
+[Rishab Bot](https://rishabbot.herokuapp.com/)
 
 Overview
 ============
