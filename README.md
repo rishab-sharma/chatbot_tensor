@@ -1,5 +1,5 @@
 # Tensorflow Chatbot
-Tensorflow Chatbot by Rishab Shama
+Tensorflow Chatbot by Rishab Shama.
 
 ## Link
 
