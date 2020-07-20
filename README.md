@@ -1,5 +1,5 @@
-# Tensorflow Chatbot
-Tensorflow Chatbot by Rishab Shama
+# Tensorflow + AIML Chatbot
+Tensorflowa and AIML Chatbot by Rishab Shama
 
 ## Link
 
@@ -11,7 +11,7 @@ Tensorflow Chatbot by Rishab Shama
 
 Overview
 ============
-This is the full code for  Amazing Tensorflow Chatbot  model to train a
+This is the full code for  Amazing Tensorflow and AIML Chatbot  model to train a
 chatbot on a AIML open-source dataset. The bot holds a fun conversation and its just been trained for sometime.
 
 
@@ -27,6 +27,8 @@ Use [pip](https://pypi.python.org/pypi/pip) to install any missing dependencies
 
 Usage
 ===========
+
+Project is No Longer Maintained. Will soon come up with better usable code.
 
 To train the bot, edit the `seq2seq.ini` file so that mode is set to train like so
 
